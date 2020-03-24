@@ -10,3 +10,7 @@ This is another paragraph
 This is a text about deployment
 
 ## How To Contribute
+How to contribute
+
+## Final information
+This is a final information about
