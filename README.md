@@ -7,5 +7,6 @@ This is a simple file
 This is another paragraph
 
 ## Deployment
+This is a text about deployment
 
 ## How To Contribute
