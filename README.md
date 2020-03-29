@@ -14,3 +14,6 @@ How to contribute
 
 ## Final information
 This is a final information about
+
+### Copyright
+2014 copy right
