@@ -12,6 +12,8 @@ This is a text about deployment
 ## How To Contribute
 How to contribute
 
+Please for this rep and then issue pull request
+
 ## Final information
 This is a final information about
 
