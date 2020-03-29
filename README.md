@@ -13,6 +13,7 @@ This is a text about deployment
 How to contribute
 
 Please for this rep and then issue pull request
+but be sure to do good work
 
 ## Final information
 This is a final information about
