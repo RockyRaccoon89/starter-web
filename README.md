@@ -15,6 +15,8 @@ How to contribute
 Please for this rep and then issue pull request
 but be sure to do good work
 
+Add some stuff 
+
 ## Final information
 This is a final information about
 
