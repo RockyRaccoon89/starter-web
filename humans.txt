@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Francis Beaulieu	fbeaulieu@test.com
 
 # THANKS
 
