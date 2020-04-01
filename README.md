@@ -2,6 +2,8 @@ Rebase
 
 # Starter Web Project
 
+Adding a line for rebasing example
+
 ## Introduction
 This is a simple file
 
