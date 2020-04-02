@@ -27,3 +27,5 @@ This is a final information about
 
 ### Copyright
 2014 copy right
+
+Simple Stash example
