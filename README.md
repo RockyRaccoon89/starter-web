@@ -29,3 +29,4 @@ This is a final information about
 2014 copy right
 
 Simple Stash example
+Stashing Untracked files and using pop
